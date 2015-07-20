@@ -1,0 +1,21 @@
+{
+  "name": "react-a11y-bower",
+  "version": "0.2.6",
+  "homepage": "https://github.com/blairanderson/react-a11y",
+  "authors": [
+    "blair81@gmail.com"
+  ],
+  "description": "this builds the react-a11y module for browsers",
+  "main": "./build.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
